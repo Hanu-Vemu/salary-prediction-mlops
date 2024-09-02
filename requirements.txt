@@ -1,0 +1,8 @@
+pandas
+dvc==3.55.1
+dvc-gs==3.0.1
+python-dotenv
+scikit-learn
+mlflow
+whylogs==1.4.5
+joblib
